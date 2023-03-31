@@ -1,0 +1,40 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-size: 15px;
+}
+.bgheader{
+    background-color: #002a40;
+    height: 80px;
+    margin: 10px;
+}
+nav ul li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px;
+}
+ul li a{
+    color: #c3c1c1;
+    letter-spacing: 0.1rem;
+}
+ul li a:hover{
+    color: #fdfdfd;
+    text-decoration: underline;
+}
+.menu li{
+    float: left;
+    padding: 35px;
+}
+.menu li a{
+    text-decoration: none;
+}
+.img2{
+    margin-top: 15px;
+    margin-right: 200px;
+}
+.link1{
+    height: 15px;
+}
+.link2{
+    height: 15px;
+}
